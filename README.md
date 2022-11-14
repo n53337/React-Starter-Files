@@ -1,2 +1,5 @@
-# React-Starter-Files
-A minimal react starter files
+### Minimal Reactjs File Structure
+
+- Clone this repo
+- `npm install`
+- `npm run dev`
